@@ -1,0 +1,33 @@
+body {
+  background-image: url('https://1.bp.blogspot.com/-GKyz5ZdD2ds/XbHhU7JyQZI/AAAAAAABhUQ/tyd-W3UVSFcSwUHxaOzW3syDYXg2sV-_QCLcBGAsYHQ/s1600/maracana%2Bmosaico%2Btorcida%2Bflamengo.jpg');
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+
+.clock {
+  text-align: center;
+  color: white; 
+}
+
+.imagem {
+  width: 500px; 
+  height: auto; 
+}
+
+
+.time {
+  font-size: 64px; 
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, 0.5); 
+  color: #ffffff; 
+  padding: 10px; 
+  border-radius: 5px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+  font-family: "Courier New", Courier, monospace; 
+}
+
